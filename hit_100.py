@@ -33,7 +33,7 @@ def hit_100(score):
         print ("Too low")
 
     else:
-        print ("Winner")
+        print ("Winner!")
 
 
 #COMPLETED
